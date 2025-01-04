@@ -10,7 +10,7 @@
     "Other"
   ],
   "activationEvents": [
-      "*"
+      "onStartupFinished"
   ],
   "main": "./out/extension.js",
   "contributes": {
@@ -50,8 +50,6 @@
     "test": "vscode-test"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/vscode": "^1.96.0",
@@ -63,11 +61,6 @@
     "typescript": "^5.7.2",
     "@vscode/test-cli": "^0.0.10",
     "@vscode/test-electron": "^2.4.1",
-    "@types/react": "^18.2.0",
-    "@types/react-dom": "^18.2.0",
-    "css-loader": "^6.8.1",
-    "style-loader": "^3.3.3",
-    "ts-loader": "^9.4.4",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
   }
