@@ -1,8 +1,9 @@
 {
   "name": "time-sushi",
-  "displayName": "potato clock",
-  "description": "A simple pomodoro timer for Visual Studio Code",
-  "version": "1.0.0",
+  "displayName": "Time Sushi",
+  "description": "A fresh way to slice your time - Pomodoro timer with style",
+  "version": "1.0.1",
+  "icon": "media/icon.png",
   "publisher": "xuedaobian",
   "engines": {
     "vscode": "^1.60.0"
