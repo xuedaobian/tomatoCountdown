@@ -2,7 +2,7 @@
   "name": "time-sushi",
   "displayName": "Time Sushi",
   "description": "A fresh way to slice your time - Pomodoro timer with style",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "icon": "media/icon.png",
   "publisher": "xuedaobian",
   "engines": {
