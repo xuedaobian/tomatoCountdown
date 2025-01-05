@@ -10,4 +10,5 @@ export interface HeatmapData {
     count: number;
     minutes: number;
     weekday: number;
+    week: number;
 }
